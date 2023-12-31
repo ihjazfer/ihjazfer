@@ -1,4 +1,4 @@
-## Hi, I'm Fernanda👋🏻
+### Hi, I'm Fernanda👋🏻
 
 - 🌱 I'm currently learning data structure in C#
 - 📚 Studying Computer Science at UFFS
