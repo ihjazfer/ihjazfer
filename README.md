@@ -1,7 +1,7 @@
 ### Hi, I'm Fernanda👋🏻
 
-- 🌱 I'm currently learning data structure in C#
-- 📚 Studying Computer Science at UFFS
+- 🌱 I'm currently learning to create websites
+- 📚 Studying Computer Science at UFFS 3/8
 - 📍 Brazil
 
 <div> 
